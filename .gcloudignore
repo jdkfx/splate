@@ -1,0 +1,9 @@
+/node_modules/
+/public/
+/src/
+.gitignore
+babel.config.js
+package.json
+package-lock.json
+jsconfig.json
+README.md
